@@ -6,4 +6,4 @@ The heat-bath Monte Carlo method is used along with a rejection technique to gen
 For more detailed information see the report.
 
 # References
-1. [Raul Toral and Amitabha Chakrabarti. “Numericaldetermination of the phase diagram for theφ4model in twodimensions”. In:Phys. Rev. B42 (4 Aug. 1990),pp. 2445–2454.doi:10.1103/PhysRevB.42.2445.](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.42.2445)
+1. [Raul Toral and Amitabha Chakrabarti. “Numerical determination of the phase diagram for the φ4 model in two dimensions”. In:Phys. Rev. B42 (4 Aug. 1990),pp. 2445–2454.doi:10.1103/PhysRevB.42.2445.](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.42.2445)
